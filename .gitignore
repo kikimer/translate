@@ -1,4 +1,6 @@
 .idea
-META-INF
-libs
 translate.iml
+/target/
+
+src/main/resources/
+src/test/
